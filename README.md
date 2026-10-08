@@ -1,2 +1,5 @@
 # BITP1113-Week02
 BITP 1113 Programming Technique - Week 02 lab
+AIRIL DINIE BIN ZALIMAN, B032610257, S2G2
+
+
